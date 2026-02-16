@@ -1,0 +1,17 @@
+{
+  "currentGroup": 0,
+  "options": {
+    "0": { "text": "Opció 1", "votes": 0 },
+    "1": { "text": "Opció 2", "votes": 0 },
+    "2": { "text": "Opció 3", "votes": 0 },
+    "3": { "text": "Opció 4", "votes": 0 },
+    "4": { "text": "Opció 5", "votes": 0 },
+    "5": { "text": "Opció 6", "votes": 0 },
+    "6": { "text": "Opció 7", "votes": 0 },
+    "7": { "text": "Opció 8", "votes": 0 },
+    "8": { "text": "Opció 9", "votes": 0 },
+    "9": { "text": "Opció 10", "votes": 0 },
+    "10": { "text": "Opció 11", "votes": 0 },
+    "11": { "text": "Opció 12", "votes": 0 }
+  }
+}
